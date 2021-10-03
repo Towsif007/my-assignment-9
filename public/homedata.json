@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "coursename": "IELTS TOP GEAR (Crash Course)",
+      "duration": "1 month",
+      "coursefee": "10000 BDT",
+      "img": "https://ieltsbd.org/wp-content/uploads/2020/04/ielts-top-gear.jpg"
+    },
+    {
+      "id": 2,
+      "coursename": "IELTS Express",
+      "duration": "2 month",
+      "coursefee": "9000 BDT",
+      "img": "https://ieltsbd.org/wp-content/uploads/2020/04/ielts-express.jpg"
+    },
+    {
+      "id": 3,
+      "coursename": " MORNING IELTS",
+      "duration": "2 month",
+      "coursefee": "8000 BDT",
+      "img": "https://ieltsbd.org/wp-content/uploads/2020/04/ielts-morning.jpg"
+    },
+    {
+      "id": 4,
+      "coursename": "AFTERNOON IELTS",
+      "duration": "3 month",
+      "coursefee": "8000 BDT",
+      "img": "https://ieltsbd.org/wp-content/uploads/2020/04/ielts-afternoon.jpg"
+    }
+  ]

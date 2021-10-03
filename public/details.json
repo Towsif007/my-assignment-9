@@ -1,0 +1,65 @@
+[
+    {
+      "id": 1,
+      "coursename": "IELTS TOP GEAR (Crash Course)",
+      "duration": "1 month",
+      "coursefee": "10000 BDT",
+      "img": "https://ieltsbd.org/wp-content/uploads/2020/04/ielts-top-gear.jpg"
+    },
+    {
+      "id": 2,
+      "coursename": "IELTS Express",
+      "duration": "2 month",
+      "coursefee": "9000 BDT",
+      "img": "https://ieltsbd.org/wp-content/uploads/2020/04/ielts-express.jpg"
+    },
+    {
+      "id": 3,
+      "coursename": " MORNING IELTS",
+      "duration": "2 month",
+      "coursefee": "8000 BDT",
+      "img": "https://ieltsbd.org/wp-content/uploads/2020/04/ielts-morning.jpg"
+    },
+    {
+      "id": 4,
+      "coursename": "AFTERNOON IELTS",
+      "duration": "3 month",
+      "coursefee": "8000 BDT",
+      "img": "https://ieltsbd.org/wp-content/uploads/2020/04/ielts-afternoon.jpg"
+    },
+    {
+      "id": 5,
+      "coursename": "IELTS BEGINNERS",
+      "duration": "3 month",
+      "coursefee": "7000 BDT",
+      "img": "https://ieltsbd.org/wp-content/uploads/2020/04/ielts-beginners.jpg"
+    },
+    {
+      "id": 6,
+      "coursename": "EVENING IELTS",
+      "duration": "3 month",
+      "coursefee": "9000 BDT",
+      "img": "https://ieltsbd.org/wp-content/uploads/2020/04/ielts-evening.jpg"
+    },
+    {
+      "id": 7,
+      "coursename": "WEEKEND IELTS",
+      "duration": "3 month",
+      "coursefee": "10000 BDT",
+      "img": "https://ieltsbd.org/wp-content/uploads/2020/04/ielts-weekend.jpg"
+    },
+    {
+      "id": 8,
+      "coursename": "IELTS MOCK TEST (Sandwich Programme)",
+      "duration": "1 month",
+      "coursefee": "20000 BDT",
+      "img": "https://ieltsbd.org/wp-content/uploads/2020/04/ielts-mock-test.jpg"
+    },
+    {
+      "id": 9,
+      "coursename": "PRACTICAL SPOKEN ENGLISH",
+      "duration": "2 month",
+      "coursefee": "1000 BDT",
+      "img": "https://ieltsbd.org/wp-content/uploads/2020/04/spoken-english.jpg"
+    }
+  ]
