@@ -11,11 +11,16 @@ const Services = () => {
         .then(data =>  setServices(data))
     }, []);
     return (
-        <div>
-         <h1>Courses we offer</h1>
+        <div className="py-5">
+
+        <div className="text-danger">
+         <h1>Courses We Offer</h1>
         <h3>Best IELTS and English language teaching center.</h3>
+        </div>
         {
-                services.map(service => <Service service={service} ></Service>)
+                services.map(service => <Service 
+                    key= {service.id}
+                    service={service} ></Service>)
             }
         </div>
     );

@@ -13,11 +13,15 @@ const Home = () => {
     }, []);
 
     return (
-        <div>
-            <ExtraSection></ExtraSection>
+        <div >
+            <ExtraSection className="extra-section"></ExtraSection>
+            <div className="collumn">
             {
-                homes.map(homedata => <Homedata homedata={homedata} ></Homedata> )
+                homes.map(homedata  => <Homedata
+                    key={homedata.id}
+                    homedata={homedata} ></Homedata> )
             }
+            </div>
     </div>    
     );
 };
