@@ -2,6 +2,7 @@ import React from 'react';
 
 const ExtraSection = () => {
     return (
+        // building extra section  
         <div>
      <div className="card-body card my-5 border border-dark mx-3 bg-danger px-5  bg-opacity-75">
     <h2 className="card-title">Why Do You Come Here</h2>

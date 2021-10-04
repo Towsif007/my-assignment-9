@@ -1,7 +1,7 @@
 # LEXICON IELTS CENTER
 
 
-Open [https://ecstatic-haibt-6bed89.netlify.app/services](https://ecstatic-haibt-6bed89.netlify.app/services) to view it in the browser.
+Open [Netlify App](https://ecstatic-haibt-6bed89.netlify.app/services) to view it in the browser.
 
 
 

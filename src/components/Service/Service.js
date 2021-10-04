@@ -3,6 +3,8 @@ import React from 'react';
 const Service = (props) => {
     const {coursename, duration, coursefee, img} = props.service;
     return (
+
+              // Service Data To show service data
         <div>
             <div className="row row-cols-1 row-cols-md-2 g-4 mx-5 my-5  justify-content-center">
             <div className="col">
